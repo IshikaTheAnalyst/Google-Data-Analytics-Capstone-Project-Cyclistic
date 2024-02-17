@@ -161,10 +161,10 @@ Activity spikes occur at different times of the day, with members commuting duri
 
 Based on my analysis, I came up with the following reccomendations that I believe will help the marketing team create an effective campaign to convert casual riders into members:
 
-1. Summer Adventure Membership: Offer a seasonal membership for summer (May to August) tailored for casual riders, emphasizing bikes near waterfront attractions and entertainment spots.
+1. **Summer Adventure Membership:**__ Offer a seasonal membership for summer (May to August) tailored for casual riders, emphasizing bikes near waterfront attractions and entertainment spots.
 
-2. Waterfront Wonders Promotion: Advertise the campaign at water-adjacent bike stations popular among casual riders, showcasing the benefits of membership.
+2. **Waterfront Wonders Promotion:**__ Advertise the campaign at water-adjacent bike stations popular among casual riders, showcasing the benefits of membership.
 
-3. Weekend Explorer Discounts: Provide exclusive discounts for weekends and longer rides to incentivize casual riders to become members and enjoy cost savings.
+3. **Weekend Explorer Discounts:**__ Provide exclusive discounts for weekends and longer rides to incentivize casual riders to become members and enjoy cost savings.
 
 By implementing these concise strategies, the marketing campaign can effectively convert casual riders into valued members, enriching their biking experience during the summer season.
