@@ -42,3 +42,24 @@ Cyclistic executive team: The notoriously detail-oriented executive team will de
 ## Prepare
 
 The first step in my prepare process is to download all of the data that I will need for my analysis. We will be using the Cyclistic trip data for 2022 which needs to be download in 12 separtate .csv files for each month of the year and stored in a dedicated folder. The data has been made available by Motivate International Inc. under this [License](https://divvybikes.com/data-license-agreement)
+[Data set Link](https://divvy-tripdata.s3.amazonaws.com/index.html)
+
+## Process
+### Data Cleaning 
+#### Excel 
+To begin the data cleaning process, I opened each .csv file in excel and did the following
+
+Checked for and removed any duplicates
+Used the trim() function to remove unneeded spaces
+Used the weekday() function to create a new column labeled day_of_week using (1-7) to represent (Sunday-Saturday)
+Created a new column labeled ride_length by subtracting the started_at column from the ended_at column
+Changed the time format to 37:30:55 to make it more readable
+Removed any rides under 1 minute or longer than 24 hours by sorting the speadsheet.
+
+#### SQL
+
+Because of the size of each .csv file I chose to switch over to SQL to continue cleaning and analysis in a more efficient way. However, the sandbox mode in BigQuery only allows you to upload files that are up to 100MB in size. Seeing that there are multiple files that are larger than 100M, I used big query to upload these files into Jupyter notebook.
+
+After Uploading each of the twelve files, I combined each file into one table labeled combined_data using the union function. In the same query, I removed each of the rows that contained null values.
+
+I now had a single table that had all of the clean data needed for my analysis.
