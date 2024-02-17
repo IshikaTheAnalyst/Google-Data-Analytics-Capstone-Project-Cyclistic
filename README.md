@@ -47,13 +47,19 @@ The first step in my prepare process is to download all of the data that I will 
 ## Process
 ### Data Cleaning 
 #### Excel 
+
 To begin the data cleaning process, I opened each .csv file in excel and did the following
 
 Checked for and removed any duplicates
+
 Used the trim() function to remove unneeded spaces
+
 Used the weekday() function to create a new column labeled day_of_week using (1-7) to represent (Sunday-Saturday)
+
 Created a new column labeled ride_length by subtracting the started_at column from the ended_at column
+
 Changed the time format to 37:30:55 to make it more readable
+
 Removed any rides under 1 minute or longer than 24 hours by sorting the speadsheet.
 
 #### SQL
