@@ -1,16 +1,16 @@
 # Google-Data-Analytics-Capstone-Project-Cyclistic
 
 
-Introduction
+## Introduction
 
 Demonstrated in this case study are the skills that I have learned in the Google Data Analytics Professional Certificate Course. I will use these skills to complete the tasks of a data analyst working for the fictional bike-share company Cyclistic. Following the data analysis process of Ask, Prepare, Process, Analyze, Share, and Act, I will complete the business task presented to me and help the company make data-driven decisions.
 
 
-Scenario
+## Scenario
 
 The Cyclistic Director of Marketing, Lily Moreno, believes the company's future success depends on maximizing the number of annual memberships. Therefore, my team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, my team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must apporove our recommendations, so they must be backed up with compelling data insights and professional data visualizations.
 
-About the Company
+## About the Company
 
 
 In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are geotracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system anytime.
@@ -23,7 +23,7 @@ Moreno has set a clear goal: Design marketing strategies aimed at converting cas
 
 
 
-**Ask**
+## Ask
 
 
 Business Task
@@ -35,3 +35,10 @@ Lily Moreno: Director of Marketing. Moreno is responsible for the development of
 Cyclistic marketing analytics team: A team of data analysts who are responsible for collecting, analyzing, and reporting data that helps guide Cyclistic marketing strategy.
 
 Cyclistic executive team: The notoriously detail-oriented executive team will decide whether to approve the recommended marketing program.
+
+
+
+**Prepare**
+
+
+The first step in my prepare process is to download all of the data that I will need for my analysis. We will be using the Cyclistic trip data for 2022 which needs to be download in 12 separtate .csv files for each month of the year and stored in a dedicated folder. The data has been made available by Motivate International Inc. under this license.
