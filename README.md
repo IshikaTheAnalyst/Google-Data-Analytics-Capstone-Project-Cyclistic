@@ -26,10 +26,11 @@ Moreno has set a clear goal: Design marketing strategies aimed at converting cas
 ## Ask
 
 
-Business Task
+### Business Task
+
 Analyze Cyclistic's 2022 trip data to understand how casual riders and annual members use bikes differently. Insights gained from this analysis will help the marketing team develop their strategies for the campaign.
 
-Stakeholders
+### Stakeholders
 Lily Moreno: Director of Marketing. Moreno is responsible for the development of campaigns and initiatives to promote the bike-share program. These may include email, social media, and other channels.
 
 Cyclistic marketing analytics team: A team of data analysts who are responsible for collecting, analyzing, and reporting data that helps guide Cyclistic marketing strategy.
@@ -38,7 +39,6 @@ Cyclistic executive team: The notoriously detail-oriented executive team will de
 
 
 
-**Prepare**
+## Prepare
 
-
-The first step in my prepare process is to download all of the data that I will need for my analysis. We will be using the Cyclistic trip data for 2022 which needs to be download in 12 separtate .csv files for each month of the year and stored in a dedicated folder. The data has been made available by Motivate International Inc. under this license.
+The first step in my prepare process is to download all of the data that I will need for my analysis. We will be using the Cyclistic trip data for 2022 which needs to be download in 12 separtate .csv files for each month of the year and stored in a dedicated folder. The data has been made available by Motivate International Inc. under this [License] (https://divvybikes.com/data-license-agreement).
