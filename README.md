@@ -52,13 +52,13 @@ To begin the data cleaning process, I opened each .csv file in excel and did the
 
 Checked for and removed any duplicates
 
-Used the trim() function to remove unneeded spaces
+Used the **trim()** function to remove unneeded spaces
 
-Used the weekday() function to create a new column labeled day_of_week using (1-7) to represent (Sunday-Saturday)
+Used the **weekday()** function to create a new column labeled **day_of_week** using (1-7) to represent (Sunday-Saturday)
 
-Created a new column labeled ride_length by subtracting the started_at column from the ended_at column
+Created a new column labeled **ride_length** by subtracting the **started_at** column from the **ended_at** column
 
-Changed the time format to 37:30:55 to make it more readable
+Changed the time format to **37:30:55** to make it more readable
 
 Removed any rides under 1 minute or longer than 24 hours by sorting the speadsheet.
 
@@ -69,3 +69,46 @@ Because of the size of each .csv file I chose to switch over to SQL to continue 
 After Uploading each of the twelve files, I combined each file into one table labeled combined_data using the union function. In the same query, I removed each of the rows that contained null values.
 
 I now had a single table that had all of the clean data needed for my analysis.
+
+
+## Analyse
+To begin the analysis phase, I wanted to reemphasize the business task How do casual riders and members use bikes differently?
+
+To answer this question, there were a few things that I identified that I could pull from the data. I wrote queries for the following:
+
+- Total # of trips per rider type
+- Total # of trips per rider type per bike type
+- Average ride length per rider type
+- Total # of trips and average length of trip per rider type per month, day, and hour of day
+- Most Popular Start and End Stations per rider type
+
+All SQL queries can be found [Here]
+
+After pulling the specified data with my queries, I noticed a few things right off the bat:
+
+- Members had around a million more trips in 2022 than causl riders.
+- Causal riders trips on average lasted around double the length of members
+- The summer months had peak activity for both casual and member riders.
+
+
+Now I had enough data that I could plug into tableau and create some visualzations and a dashboard.
+
+
+## Share
+
+The dashboard I created for this project can be found on tableau here
+
+For my visualizations, I really wanted to emphasize only the data that illustrated the key differences between casual riders and members. To accomplish this, I found that a few of my queries were not crucial to anwering the business task.
+
+I compile my dashboard, I included the following visualizations:
+
+- Trips per rider type
+- Trips per Bike Type
+- Average ride length per rider type
+- Top Start and end stations
+- Number of trips per month, day, and hour
+
+
+Here is a look at the dashboard
+
+![Dashboard](C:\Users\ibansal\Desktop\dashboard.png)
