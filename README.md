@@ -24,6 +24,8 @@ Moreno has set a clear goal: Design marketing strategies aimed at converting cas
 
 
 **Ask**
+
+
 Business Task
 Analyze Cyclistic's 2022 trip data to understand how casual riders and annual members use bikes differently. Insights gained from this analysis will help the marketing team develop their strategies for the campaign.
 
