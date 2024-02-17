@@ -41,4 +41,4 @@ Cyclistic executive team: The notoriously detail-oriented executive team will de
 
 ## Prepare
 
-The first step in my prepare process is to download all of the data that I will need for my analysis. We will be using the Cyclistic trip data for 2022 which needs to be download in 12 separtate .csv files for each month of the year and stored in a dedicated folder. The data has been made available by Motivate International Inc. under this [License] (https://divvybikes.com/data-license-agreement).
+The first step in my prepare process is to download all of the data that I will need for my analysis. We will be using the Cyclistic trip data for 2022 which needs to be download in 12 separtate .csv files for each month of the year and stored in a dedicated folder. The data has been made available by Motivate International Inc. under this [License](https://divvybikes.com/data-license-agreement)
