@@ -112,3 +112,59 @@ I compile my dashboard, I included the following visualizations:
 Here is a look at the dashboard
 
 ![Dashboard](C:\Users\ibansal\Desktop\dashboard.png)
+
+
+
+Here is a summary of the key differences found between Members and Casual Riders:
+
+**Members**:
+
+Members primarily use bikes for daily commutes to work, university, etc.
+
+Top bike stations are strategically located near colleges and office buildings downtown.
+
+Average ride length is shorter and consistent, indicating routine travel to familiar destinations.
+
+Peak months are from May to September, coinciding with favorable weather for bike usage.
+
+Peak activity occurs on weekdays during working and school hours, with spikes at 8 AM, 12 PM, and 5 PM.
+
+
+
+**Casual Riders:**
+
+Casual riders use bikes for leisure and entertainment purposes.
+
+Top bike stations are located along the waterfront and near popular entertainment attractions.
+
+Casual riders have longer average ride lengths, using bikes for strolling and exploration.
+
+Peak months align with the warmer months of the year.
+
+Peak activity happens during weekends, with steady increases around noon, reaching the highest point at 5 PM.
+
+
+**Comparison of Casual Riders and Members:**
+
+Casual riders use bikes for leisure, while members use them for daily commuting.
+
+Top station locations differ, with members favoring areas near colleges and office buildings, and casual riders near entertainment spots and waterfront.
+
+Average ride length varies, shorter and consistent for members, longer and more exploratory for casual riders.
+
+Peak months align with weather for both groups, but peak days differ - weekdays for members and weekends for casual riders.
+
+Activity spikes occur at different times of the day, with members commuting during work hours and casual riders using bikes mainly during leisure hours.
+
+
+## Act
+
+Based on my analysis, I came up with the following reccomendations that I believe will help the marketing team create an effective campaign to convert casual riders into members:
+
+1. Summer Adventure Membership: Offer a seasonal membership for summer (May to August) tailored for casual riders, emphasizing bikes near waterfront attractions and entertainment spots.
+
+2. Waterfront Wonders Promotion: Advertise the campaign at water-adjacent bike stations popular among casual riders, showcasing the benefits of membership.
+
+3. Weekend Explorer Discounts: Provide exclusive discounts for weekends and longer rides to incentivize casual riders to become members and enjoy cost savings.
+
+By implementing these concise strategies, the marketing campaign can effectively convert casual riders into valued members, enriching their biking experience during the summer season.
